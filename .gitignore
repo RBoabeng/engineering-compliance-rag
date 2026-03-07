@@ -208,3 +208,6 @@ __marimo__/
 
 # pdfs
 *.pdf
+
+# chroma
+chroma_db/
